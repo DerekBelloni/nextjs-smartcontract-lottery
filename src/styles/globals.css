@@ -95,6 +95,11 @@ a {
   text-decoration: none;
 }
 
+button {
+  height: 30px;
+  width: 105px;
+}
+
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;
